@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27205.2004
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceAndVirtualMethods", "Study-Polymorphism\InheritanceAndVirtualMethods.csproj", "{980E0DED-3CFB-4BD4-ACBE-6C87DFB973D0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceAndVirtualMethods", "InheritanceAndVirtualMethods\InheritanceAndVirtualMethods.csproj", "{980E0DED-3CFB-4BD4-ACBE-6C87DFB973D0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverloading", "MethodOverloading\MethodOverloading.csproj", "{7CCD58A0-E6FE-4DA8-AC8D-24C4C774F33B}"
 EndProject
